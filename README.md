@@ -2,7 +2,7 @@ Data Structure
 ==============
 
 <p align="center">
-  <img src="https://github.com/adityaanand13/Images_Private/blob/master/DS/DS_Wiki_home.png" width="350"/>
+  <img src="https://github.com/adityaanand13/Images_Private/blob/master/DS/DS_Wiki_home.png" width="550"/>
 </p>
 
 Introduction
@@ -20,7 +20,7 @@ Why C, C++ and Java ?
 The C programming language was originally designed to develop system programs. It interacts directly to the system and gives the program ability to handle memory and system resources. I wanted to start implementing algorithms directly from C++, but my professor advise me to implement first in C. As in contrast to C++, one has to use Structures (Struct) to implement Abstract data type. But structures in C don't have a built in functions which can be used to define the behaviour of ADT. for this we have to rely on the old-school method of using POP functions to work around the data. This often limits the possibility of implementing the data structures as compared to OOP capability of C++.
 
 <p align="center">
-  <img src="https://github.com/adityaanand13/Images_Private/blob/master/DS/DS_wiki_home_C_Sample.pngg" width="350"/>
+  <img src="https://github.com/adityaanand13/Images_Private/blob/master/DS/DS_wiki_home_C_Sample.png" width="550"/>
 </p>
 
    _Compiler Used_ **GNU GCC 4.2.1 , Apple LLVM version 9.1.0 (clang-902.0.39.1)**
