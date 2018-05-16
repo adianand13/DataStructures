@@ -2,7 +2,7 @@ Data Structure
 ==============
 
 <p align="center">
-  <img src="https://github.com/adityaanand13/Images_Private/blob/master/DS/DS_Wiki_home.png" width="550"/>
+  <img src="https://github.com/adityaanand13/Images_Private/blob/master/DS/DS_Wiki_home.png" width="850"/>
 </p>
 
 Introduction
